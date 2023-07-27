@@ -1,0 +1,32 @@
+.cardProducto {
+  background-color: #fff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #e2e8f0;
+  border: 1px solid;
+  border-color: #e2e8f0;
+  width: 15rem;
+  padding: 1rem;
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.imgProducto {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin: 0;
+}

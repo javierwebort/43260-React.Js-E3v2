@@ -1,0 +1,27 @@
+.imgCarrito {
+    width: 2rem;
+    height: 30px;
+    margin-right: 5px;
+}
+
+.cartWidgetContainer {
+    display: flex;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .cantidadTotal {
+    background-color: #a3bffa;
+    color: black;
+    font-weight: bold;
+    padding: 2px 5px;
+    border-radius: 50%;
+    font-size: 14px;
+  }
+
+  .cartLink {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+  }
+  
